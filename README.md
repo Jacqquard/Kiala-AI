@@ -82,7 +82,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Jac-qquard/Kiala-v.0.1A.git
+    https://github.com/Jacqquard/Kiala-AI.git
     cd Kiala-v.0.1A
     ```
 
